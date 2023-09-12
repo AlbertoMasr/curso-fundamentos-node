@@ -1,0 +1,6 @@
+Archivo
+Que
+Se
+Va a leer
+Desde
+Stream
